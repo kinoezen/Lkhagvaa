@@ -1,3 +1,4 @@
+# @title 🚀 [Ганцхан дараад Colab руу үсрэх нууц линк](https://colab.research.google.com/github/kinoezen/Lhagvaa/blob/main/script.py)
 # 1. Майкрософтын нууц API санг суулгах хэсэг
 !pip install edge-tts
 
